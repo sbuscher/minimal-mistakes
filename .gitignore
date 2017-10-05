@@ -1,6 +1,9 @@
 *.gem
 *.sublime-project
 *.sublime-workspace
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
 .bundle
 .DS_Store
 .jekyll-metadata
