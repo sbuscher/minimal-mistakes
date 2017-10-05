@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="240eab70-df98-46c0-b915-4f94f2e8133f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/stale.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_config.dev.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/authors.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1473870213530.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1478213467992.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1500181304581.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/chocolate-chip-cookies/comment-1500214855350.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1479508047505.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1480591890264.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1482532165381.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1483456786593.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/gemified-theme-beta/comment-1483457152038.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1470944006665.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1470944162041.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-comments/comment-1472308473018.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-horizontal/comment-1483124729757.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-horizontal/comment-1483128389943.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1474306861206.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1479253931238.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-header-image-text-readability/comment-1479265677846.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-related-posts/comment-1500183131535.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-related-posts/comment-1500214974083.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-nav-list/comment-1492811460488.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/layout-sidebar-nav-list/comment-1492812977693.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-more-images/comment-1472040323579.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-more-images/comment-1472146638519.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1470969665387.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1478928407894.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1487758246637.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1505403032256.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/markup-syntax-highlighting/comment-1505403241808.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-future-date/comment-1472064560364.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-future-date/comment-1472786137736.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-gallery/comment-1500055247314.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-gallery/comment-1500056210776.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-modified/comment-1497284119888.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-modified/comment-1497284892766.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-video-youtube/comment-1506623182288.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-video-youtube/comment-1506623710918.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/post-video-youtube/comment-1506632190623.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942205700.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942247755.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942265819.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1471823346931.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1471834988411.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1472786599470.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1474328950155.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1500505983331.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/comments/welcome-to-jekyll/comment-1507141538771.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/navigation.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_data/ui-text.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/01-quick-start-guide.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/02-structure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/03-installation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/04-upgrading.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/05-configuration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/06-overriding-theme-defaults.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/07-navigation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/08-ui-text.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/09-authors.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/10-layouts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/11-posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/12-pages.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/13-collections.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/14-helpers.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/15-utility-classes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/16-stylesheets.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/17-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/18-history.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/19-contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/20-docs-2-2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_docs/21-license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_drafts/post-draft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics-providers/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics-providers/google-universal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics-providers/google.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/analytics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/archive-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/author-profile-custom-links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/author-profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/base_path" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/breadcrumbs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/browser-upgrade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/category-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/discourse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/disqus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/facebook.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/google-plus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/staticman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments-providers/staticman_v2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/comments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/feature_row" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/figure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/footer/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/gallery" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/group-by-array" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/head/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/masthead.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/nav_list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/page__hero.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/page__hero_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/page__taxonomy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/paginator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/post_pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/read-time.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/seo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/social-share.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/tag-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/toc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_includes/video" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/archive-taxonomy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/compress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/splash.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/404.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/archive-layout-with-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/category-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/collection-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/home.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/lorem-ipsum.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/page-a.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/page-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/page-b.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/portfolio-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/recipes-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/sample-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/sitemap.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/splash-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/tag-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/terms.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pages/year-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pets/lhasa-apso.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_pets/tabby.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_portfolio/baz-boom-identity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_portfolio/fizz-bang-identity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_portfolio/foo-bar-website.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_portfolio/ginger-gulp-identity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-06-01-edge-case-many-tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-07-02-edge-case-many-categories.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-08-06-edge-case-no-body-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-09-05-edge-case-no-yaml-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2009-10-05-edge-case-very-long-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-01-07-post-modified.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-01-07-post-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-01-08-post-chat.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-02-05-post-notice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-02-05-post-quote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-03-07-post-link.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-06-02-post-video-youtube.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-image-linked.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-05-post-image-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-06-post-image-linked-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-08-07-post-image-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-09-09-post-gallery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-09-10-post-twitter-embeds.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2010-10-25-post-future-date.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-comments-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-comments.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-read-time-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-read-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-related-posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-sharing-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-02-layout-sharing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-bottom-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-01-03-layout-table-of-contents-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-code-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-excerpt-defined.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-14-layout-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-author-override.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-author-sidebar-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-external.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-horizontal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-image-vertical.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-overlay-color.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-header-overlay-image.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-more-tag.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-sidebar-custom.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-03-15-layout-sidebar-nav-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2012-05-22-markup-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-05-markup-title-with-markup.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-05-markup-title-with-special-characters.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-09-markup-text-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-10-markup-image-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-01-11-markup-html-tags-and-formatting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-05-22-markup-more-images.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2013-08-16-markup-syntax-highlighting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-02-24-welcome-to-jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-09-21-gemified-theme-alpha.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2016-10-06-gemified-theme-beta.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_posts/2017-01-23-layout-header-video.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_recipes/chocolate-chip-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_recipes/oatmeal-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_recipes/peanut-butter-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_archive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_navigation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_notices.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_page.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_syntax.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_air.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_contrast.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_dark.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_dirt.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_mint.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/skins/_sunrise.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_breakpoint.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_context.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_legacy-settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_no-query.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_parsers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_respond-to.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/_double.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/_query.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/_resolution.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/_single.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/_triple.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_default-pair.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_double-string.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/resolution/_resolution.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/single/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/breakpoint/parsers/triple/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/font-awesome/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/magnific-popup/_magnific-popup.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/magnific-popup/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/_su.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/_susy-prefix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/_susy.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/_svg-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_prefix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-api.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-grid-math.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-unprefix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_api.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_parse.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_su-math.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_su-validate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_syntax-helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_unprefix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_sass/minimal-mistakes/vendor/susy/susy/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/3953273590_704e3899d5_m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/500x300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-archive-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-post-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/air-skin-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/bio-photo-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/bio-photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-archive-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-post-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/contrast-skin-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-archive-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-post-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dark-skin-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-archive-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-post-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/dirt-skin-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/facebook-share-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/foo-bar-identity-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/foo-bar-identity.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-1200x4002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-300x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/image-alignment-580x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/markup-syntax-highlighting-teaser.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/michael-rose.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-archive-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-post-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mint-skin-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-archive-grid-view-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-profile-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-profile-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-author-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-breadcrumbs-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-browser-mockups.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-bundle-install.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-custom-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-custom-sidebar-nav.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-customizable-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-free-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-gh-pages.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-github-copy-repo-url.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-github-edit-config.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-header-overlay-black-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-header-overlay-red-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-home-page-feature.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-home-post-pagination-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-archive-taxonomy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-examples.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single-meta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-single.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-layout-splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-paragraph-indent-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-portfolio-collection-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-priority-plus-masthead.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-read-time-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-responsive-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-overlay-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-single-header-overlay-fill-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-social-share-links-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-staticman-pr-webhook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-susy-grid-overlay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-teaser-images-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-fork-repo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-post-600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-theme-post-750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-toc-helper-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-twitter-card-summary-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-twitter-card-summary-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mm-ui-text-labels.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-310x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/mstile-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/paragraph-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/paragraph-no-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/site-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-archive-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-post-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sunrise-skin-post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-1-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-2-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-3-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-4-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-gallery-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/unsplash-image-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/_main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/main.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.fitvids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.greedy-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/plugins/jquery.smooth-scroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/js/vendor/jquery/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/screenshot-layouts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot-layouts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/authors.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_data/navigation.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/404.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/archive-layout-with-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/category-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/collection-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/lorem-ipsum.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-a.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/page-b.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/portfolio-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/recipes-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/sample-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/sitemap.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/splash-page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/tag-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/terms.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pages/year-archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pets/lhasa-apso.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_pets/tabby.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/baz-boom-identity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/fizz-bang-identity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/foo-bar-website.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_portfolio/ginger-gulp-identity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-06-01-edge-case-many-tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-07-02-edge-case-many-categories.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-08-06-edge-case-no-body-content.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-09-05-edge-case-no-yaml-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2009-10-05-edge-case-very-long-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-modified.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-07-post-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-01-08-post-chat.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-notice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-02-05-post-quote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-03-07-post-link.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-06-02-post-video-youtube.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-linked.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-05-post-image-standard.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-06-post-image-linked-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-08-07-post-image-caption.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-09-09-post-gallery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-09-10-post-twitter-embeds.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2010-10-25-post-future-date.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-comments.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-read-time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-related-posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-02-layout-sharing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-read-time-comments-sharing-related-posts-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-bottom-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-01-03-layout-table-of-contents-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-code-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-defined.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-14-layout-excerpt-generated.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-override.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-author-sidebar-disabled.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-external.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-horizontal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-image-vertical.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-color.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-header-overlay-image.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-more-tag.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-custom.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-03-15-layout-sidebar-nav-list.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2012-05-22-markup-text-readability.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-markup.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-05-markup-title-with-special-characters.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-09-markup-text-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-10-markup-image-alignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-01-11-markup-html-tags-and-formatting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-05-22-markup-more-images.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2013-08-16-markup-syntax-highlighting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2016-02-24-welcome-to-jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_posts/2017-01-23-layout-header-video.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/chocolate-chip-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/oatmeal-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/_recipes/peanut-butter-cookies.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/3953273590_704e3899d5_m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/500x300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/bio-photo-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/bio-photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/facebook-share-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/foo-bar-identity.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-1200x4002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-150x150.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-300x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/image-alignment-580x300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/markup-syntax-highlighting-teaser.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-archive-grid-view-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-profile-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-author-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-breadcrumbs-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-browser-mockups.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-bundle-install.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-custom-sidebar-nav.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-customizable-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-free-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-gh-pages.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-github-copy-repo-url.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-github-edit-config.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-black-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-header-overlay-red-filter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-home-page-feature.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-home-post-pagination-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive-taxonomy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-examples.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single-meta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-single.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-layout-splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-paragraph-indent-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-portfolio-collection-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-priority-plus-masthead.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-read-time-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-responsive-feature.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-single-header-overlay-fill-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-social-share-links-reddit-gs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-staticman-pr-webhook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-susy-grid-overlay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-teaser-images-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-fork-repo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-600.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-theme-post-750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-toc-helper-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-twitter-card-summary-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/mm-ui-text-labels.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/paragraph-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/paragraph-no-indent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/safari-pinned-tab.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4-th.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-gallery-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/assets/images/unsplash-image-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+    </list>
+    <ignored path="sbuscher.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sbuscher.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.6564102">
+              <caret line="188" column="1" selection-start-line="188" selection-start-column="1" selection-end-line="188" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.615385">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shane Buscher &lt;shane@buscherhood.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_includes/page-intro.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_includes/masthead.html" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/minimal-mistakes-jekyll.gemspec" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="61" />
+    <option name="y" value="23" />
+    <option name="width" value="1355" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbuscher.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbuscher.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sbuscher.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="98" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="100" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="898" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="98" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="100" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="898" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240eab70-df98-46c0-b915-4f94f2e8133f" name="Default" comment="" />
+      <created>1506735114189</created>
+      <option name="number" value="Default" />
+      <updated>1506735114189</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Purge files">
+      <created>1506735933181</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506735933181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="61" y="23" width="1355" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25682658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Purge files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Purge files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1127321">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/masthead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14030261">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06538462">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimal-mistakes-jekyll.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60956174">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6564102">
+          <caret line="188" column="1" selection-start-line="188" selection-start-column="1" selection-end-line="188" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
